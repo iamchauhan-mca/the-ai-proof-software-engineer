@@ -74,7 +74,6 @@ All code snippets and practical guides contained within this repository are lice
 
 ## 📖 Get the Book
 If you don't have a copy of the roadmap yet, you can pick up **The AI-Proof Software Engineer** here:
-*   [Gumroad Bookstore Store Link]
-*   [Amazon Kindle Worldwide Link]
+*   Razor Pay: https://rzp.io/rzp/UI82KgN
 
 For feedback, questions, or issues with code blocks, feel free to open an Issue or reach out directly at **iamchauhan.mca@gmail.com**.
