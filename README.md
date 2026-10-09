@@ -11,6 +11,16 @@ This repository is designed to accompany the book's station-by-station roadmap, 
 
 This code is structured to follow the **12-Station Learning Path** detailed in the book. Instead of looking at a single massive codebase, treat each directory as a hands-on milestone:
 
+From Senior Developer to Production-Grade AI Engineer
+A practical 12-Station Roadmap covering:
+🚉 GenAI & LLM fundamentals
+🚉 Transformers & Attention
+🚉 RAG & semantic search
+🚉 Chunking & metadata
+🚉 Hybrid search & reranking
+🚉 FastAPI & Docker
+🚉 Production AI architecture
+
 1. **Read the Station:** Understand the architectural concepts, data paradigms, and system design trade-offs inside the book chapter.
 2. **Run the Code:** Navigate to the corresponding folder in this repository, inspect the code blocks, and run them locally.
 3. **Modify & Experiment:** Tweak parameters (like model temperatures, chunking strategies, or vector weights) to build robust engineering intuition.
